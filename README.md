@@ -214,6 +214,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](www.youtube.com/@TikTikInfoTik)
+- **My YouTube Channel**: [Subscribe to my channel for tutorials and insights](www.youtube.com/@TikTikInfoTik)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rameshpragada?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
